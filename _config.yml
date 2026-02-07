@@ -23,10 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "personalprojects.html", title: "Personal Projects"}
   - {file: "README.md", title: "Blog", url: "https://www.signalsandstories.com/"}
 
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:yash.mundada@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/yashm277"}
-  - {title: X, icon: x-twtter, url: "https://x.com/mundadadada"}
+# external:                       # moved to footer in default.html
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
