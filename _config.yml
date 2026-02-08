@@ -19,7 +19,6 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   # - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", title: "About Me"}
   - {file: "personalprojects.html", title: "Personal Projects"}
   - {file: "README.md", title: "Blog", url: "https://www.signalsandstories.com/"}
 
