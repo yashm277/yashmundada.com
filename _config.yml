@@ -42,3 +42,6 @@ defaults:
 
 plugins:
  - jekyll-feed
+
+include:
+  - tweets/_next
